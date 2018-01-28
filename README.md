@@ -3,7 +3,6 @@ This program was my final project in my second semester of Java. It was
 designed to aid in my duties processing material returns for the parts
 department of an auto dealer.
 
-/* CS112 Final Project
    File Name:          PartsUtilities.java
    Programmers:        Daniel Kirby
    Date Last Modified: May 17, 2015
